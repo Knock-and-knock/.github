@@ -35,13 +35,14 @@
 <div align="center">
 
 <div style="font-size:1.5rem; font-weight:bold">
-    Express Your Emotions, Create Your World
+    Knock-knock, how are you?
 </div>
 
 <br>
 
-Emozis는 “emotion”과 “emoji”의 결합에 ‘s’를 추가하여 복수형을 나타냅니다. <br>
-사용자의 감정을 풍부하게 표현할 수 있는 여러 가지 방법을 제공한다는 메시지를 전달합니다.
+똑똑의 주 이용자는 보호자 및 피보호자(노인)입니다.<br>
+피보호자의 금융 서비스 이용에 도움을 주며, 챗봇과의 대화로 치매예방에 도움을 줍니다.<br>
+또한 보호자는 피보호자의 카드 사용으로 피보호자의 금융 사기에 보다 빨리 대처 할 수 있습니다.
 </div>
 
 <br>
@@ -50,34 +51,44 @@ Emozis는 “emotion”과 “emoji”의 결합에 ‘s’를 추가하여 복�
 <table>
     <tr>
         <td align="center" width="100px;">
-            <a href="https://github.com/OHTaEH"><img src="https://avatars.githubusercontent.com/OHTaEH" width="90px"></a>
-        </td>
-        <td align="center" width="100px;">
-            <a href="https://github.com/narae3759"><img src="https://avatars.githubusercontent.com/narae3759" width="90px"></a>
-        </td>
-        <td align="center" width="100px;">
-            <a href="https://github.com/yechan-9208"><img src="https://avatars.githubusercontent.com/yechan-9208" width="90px"></a>
-        </td>
-        <td align="center" width="100px;">
             <a href="https://github.com/MinkyoDev"><img src="https://avatars.githubusercontent.com/MinkyoDev" width="90px"></a>
         </td>
         <td align="center" width="100px;">
-            <a href="https://github.com/MinkyoDev"><img src="https://avatars.githubusercontent.com/cocopg" width="90px"></a>
+            <a href="https://github.com/DevHyun2"><img src="https://avatars.githubusercontent.com/DevHyun2" width="90px"></a>
+        </td>
+        <td align="center" width="100px;">
+            <a href="https://github.com/SonDongHee123"><img src="https://avatars.githubusercontent.com/SonDongHee123" width="90px"></a>
+        </td>
+        <td align="center" width="100px;">
+            <a href="https://github.com/YangxGeon"><img src="https://avatars.githubusercontent.com/YangxGeon" width="90px"></a>
+        </td>
+        <td align="center" width="100px;">
+            <a href="https://github.com/cocopg"><img src="https://avatars.githubusercontent.com/cocopg" width="90px"></a>
+        </td>
+        <td align="center" width="100px;">
+            <a href="https://github.com/lee21330"><img src="https://avatars.githubusercontent.com/lee21330" width="90px"></a>
+        </td>
+        <td align="center" width="100px;">
+            <a href="https://github.com/wjdals898"><img src="https://avatars.githubusercontent.com/wjdals898" width="90px"></a>
         </td>
     </tr>
     <tr>
-        <td align="center"><a href="https://github.com/OHTaEH"><b>오태훈 ⭐️</b></a> </td>
-        <td align="center"><a href="https://github.com/narae3759"><b>김나래</b></a> </td>
-        <td align="center"><a href="https://github.com/yechan-9208"><b>원예찬</b></a> </td>
-        <td align="center"><a href="https://github.com/MinkyoDev"><b>정민교</b></a> </td>
+        <td align="center"><a href="https://github.com/MinkyoDev"><b>정민교 ⭐️</b></a> </td>
+        <td align="center"><a href="https://github.com/DevHyun2"><b>권대현</b></a> </td>
+        <td align="center"><a href="https://github.com/SonDongHee123"><b>손동희</b></a> </td>
+        <td align="center"><a href="https://github.com/YangxGeon"><b>양승건</b></a> </td>
         <td align="center"><a href="https://github.com/cocopg"><b>정성진</b></a> </td>
+        <td align="center"><a href="https://github.com/lee21330"><b>이두리</b></a> </td>
+        <td align="center"><a href="https://github.com/wjdals898"><b>홍정민</b></a> </td>
     </tr>
     <tr>
-        <td align="center">PM<br>AI Engineer</td>
-        <td align="center">PM <span style="font-size:0.8rem;">Assistant</span><br>AI Engineer</td>
-        <td align="center">Frontend Engineer</td>
+        <td align="center">PM<br>AI&Backend Engineer</td>
         <td align="center">Backend Engineer</td>
-        <td align="center">Designer</td>
+        <td align="center">Backend Engineer</td>
+        <td align="center">Backend Engineer</td>
+        <td align="center">Design<br>Frontend Engineer</td>
+        <td align="center">Design<br>Frontend Engineer</td>
+        <td align="center">Design<br>Frontend Engineer</td>
     </tr>
 </table>
 </div>
@@ -85,9 +96,9 @@ Emozis는 “emotion”과 “emoji”의 결합에 ‘s’를 추가하여 복�
 ### 👪 Develop Rule
 
 ```
-1️⃣ 공지, 온라인 회의, 의견 공유는 Discord
+1️⃣ 전체 회의 매주 월요일 10시
 
-2️⃣ 회의록, 진행상황, AI 테스트는 Streamlit
+2️⃣ Backend 데일리 스크럼 12시
 
-3️⃣ 모든 원본 문서들은 Google Drive에 저장
+3️⃣ Frontend 데일리 스크럼 17시
 ```
