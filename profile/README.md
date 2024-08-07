@@ -55,9 +55,9 @@
         </td>
         <td align="center" width="100px;">
             <a href="https://github.com/DevHyun2"><img src="https://avatars.githubusercontent.com/DevHyun2" width="90px"></a>
-        </td>
         <td align="center" width="100px;">
-            <a href="https://github.com/SonDongHee123"><img src="https://avatars.githubusercontent.com/SonDongHee123" width="90px"></a>
+            <a href="https://github.com/wjdals898"><img src="https://avatars.githubusercontent.com/wjdals898" width="90px"></a>
+        </td>
         </td>
         <td align="center" width="100px;">
             <a href="https://github.com/YangxGeon"><img src="https://avatars.githubusercontent.com/YangxGeon" width="90px"></a>
@@ -69,17 +69,17 @@
             <a href="https://github.com/lee21330"><img src="https://avatars.githubusercontent.com/lee21330" width="90px"></a>
         </td>
         <td align="center" width="100px;">
-            <a href="https://github.com/wjdals898"><img src="https://avatars.githubusercontent.com/wjdals898" width="90px"></a>
+            <a href="https://github.com/SonDongHee123"><img src="https://avatars.githubusercontent.com/SonDongHee123" width="90px"></a>
         </td>
     </tr>
     <tr>
         <td align="center"><a href="https://github.com/MinkyoDev"><b>정민교 ⭐️</b></a> </td>
         <td align="center"><a href="https://github.com/DevHyun2"><b>권대현</b></a> </td>
-        <td align="center"><a href="https://github.com/SonDongHee123"><b>손동희</b></a> </td>
+        <td align="center"><a href="https://github.com/wjdals898"><b>홍정민</b></a> </td>
         <td align="center"><a href="https://github.com/YangxGeon"><b>양승건</b></a> </td>
         <td align="center"><a href="https://github.com/cocopg"><b>정성진</b></a> </td>
         <td align="center"><a href="https://github.com/lee21330"><b>이두리</b></a> </td>
-        <td align="center"><a href="https://github.com/wjdals898"><b>홍정민</b></a> </td>
+        <td align="center"><a href="https://github.com/SonDongHee123"><b>손동희</b></a> </td>
     </tr>
     <tr>
         <td align="center">PM<br>AI&Backend Engineer</td>
