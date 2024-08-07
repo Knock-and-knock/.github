@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img alt="똑똑 로고" src="https://github.com/user-attachments/assets/f448e8e4-99b5-40e5-9df2-1a70742dde2e" width="30%">
+<img alt="똑똑 로고" src="https://github.com/user-attachments/assets/045d2ef6-b856-4782-b8f9-8297549839bc" width="30%">
 <br>
 
 똑똑은 chatbot을 이용한 실시간 말동무 서비스로, 
