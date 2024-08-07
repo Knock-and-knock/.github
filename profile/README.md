@@ -30,7 +30,7 @@
 </div>
 
 
-### 👪 Emozis 소개
+### 👪 똑똑 소개
 
 <div align="center">
 
@@ -83,7 +83,7 @@
     </tr>
     <tr>
         <td align="center">PM<br>AI&Backend Engineer</td>
-        <td align="center">Backend Engineer</td>
+        <td align="center">Server<br>Backend Engineer</td>
         <td align="center">Backend Engineer</td>
         <td align="center">Backend Engineer</td>
         <td align="center">Design<br>Frontend Engineer</td>
