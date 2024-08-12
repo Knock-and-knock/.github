@@ -26,6 +26,14 @@
             <a href="https://github.com/Knock-and-knock/AI">AI</a>
         </td>
     </tr>
+    <tr align="center">
+        <td colspan="3" style="font-weight:bold">Project</td>
+    </tr>
+    <tr align="center">
+        <td colspan="3">
+            <a href="https://github.com/orgs/Knock-and-knock/projects/1"> DashBoard</a>
+        </td>
+    </tr>
 </table>
 </div>
 
