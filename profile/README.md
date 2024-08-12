@@ -27,7 +27,7 @@
         </td>
     </tr>
     <tr align="center">
-        <td colspan="3" style="font-weight:bold">Project</td>
+        <td colspan="3" style="font-weight:bold">📑Project</td>
     </tr>
     <tr align="center">
         <td colspan="3">
